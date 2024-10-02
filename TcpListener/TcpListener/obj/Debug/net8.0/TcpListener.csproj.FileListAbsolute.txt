@@ -1,0 +1,15 @@
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.exe
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.deps.json
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.runtimeconfig.json
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.dll
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.pdb
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.AssemblyInfo.cs
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.sourcelink.json
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.dll
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\refint\TcpListener.dll
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.pdb
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.genruntimeconfig.cache
+C:\Users\KGA\Desktop\Eunjoo\StudyMsTcp\TcpListener\TcpListener\obj\Debug\net8.0\ref\TcpListener.dll
